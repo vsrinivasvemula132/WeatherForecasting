@@ -27,6 +27,8 @@ class MainActivity : AppCompatActivity() {
         fetchWeatherData("jaipur")
         searchCity()
 
+        //srinivas
+
 
     }
 
